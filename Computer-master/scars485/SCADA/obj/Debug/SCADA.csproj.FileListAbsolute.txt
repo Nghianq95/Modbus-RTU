@@ -1,0 +1,73 @@
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\bin\Debug\SCADA.exe
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\bin\Debug\SCADA.pdb
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.csprojResolveAssemblyReference.cache
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.Properties.Resources.resources
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.csproj.GenerateResource.Cache
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.exe
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.pdb
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.MainForm.resources
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.DataQueryForm.resources
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.RequestForm.resources
+E:\tai lieu\Ki 1 nam 5\SCADA\SCADA\obj\Debug\SCADA.ScadaForm.resources
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.exe
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.pdb
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\bin\Debug\SCADA.exe
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\bin\Debug\SCADA.pdb
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.csprojResolveAssemblyReference.cache
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.DataQueryForm.resources
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.MainForm.resources
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.Properties.Resources.resources
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.RequestForm.resources
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.ScadaForm.resources
+C:\Users\HiuBK\Desktop\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.csproj.GenerateResource.Cache
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.exe
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.pdb
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\bin\Debug\SCADA.exe
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\bin\Debug\SCADA.pdb
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.csprojResolveAssemblyReference.cache
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.DataQueryForm.resources
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.MainForm.resources
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.Properties.Resources.resources
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.RequestForm.resources
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.ScadaForm.resources
+D:\BackUp\ThayAu\SCADA\SCADA\SCADA\obj\Debug\SCADA.csproj.GenerateResource.Cache
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.exe
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.pdb
+D:\BackUp\ThayAu\scars485\SCADA\bin\Debug\SCADA.exe
+D:\BackUp\ThayAu\scars485\SCADA\bin\Debug\SCADA.pdb
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.csprojResolveAssemblyReference.cache
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.DataQueryForm.resources
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.MainForm.resources
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.Properties.Resources.resources
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.RequestForm.resources
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.ScadaForm.resources
+D:\BackUp\ThayAu\scars485\SCADA\obj\Debug\SCADA.csproj.GenerateResource.Cache
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.exe
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.pdb
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\bin\Debug\Database1.sdf
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\bin\Debug\SCADA.exe.config
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\bin\Debug\SCADA.exe
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\bin\Debug\SCADA.pdb
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.csprojResolveAssemblyReference.cache
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.DataQueryForm.resources
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.MainForm.resources
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.Properties.Resources.resources
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.RequestForm.resources
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.ScadaForm.resources
+C:\Users\TRUONG\Downloads\New folder\FinalScada\scars485\SCADA\obj\Debug\SCADA.csproj.GenerateResource.Cache
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\bin\Debug\SCADA.exe.config
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.exe
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.pdb
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\bin\Debug\Database1.sdf
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\bin\Debug\SCADA.exe
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\bin\Debug\SCADA.pdb
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.csprojResolveAssemblyReference.cache
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.DataQueryForm.resources
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.MainForm.resources
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.Properties.Resources.resources
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.RequestForm.resources
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.ScadaForm.resources
+C:\Users\HiuBK\Downloads\Compressed\Final\Final\scars485\SCADA\obj\Debug\SCADA.csproj.GenerateResource.Cache
+C:\Users\Quang Nghia\Desktop\Final\Final\scars485\SCADA\bin\Debug\SCADA.exe.config
+C:\Users\Quang Nghia\Desktop\Final\Final\scars485\SCADA\obj\Debug\SCADA.exe
+C:\Users\Quang Nghia\Desktop\Final\Final\scars485\SCADA\obj\Debug\SCADA.pdb
